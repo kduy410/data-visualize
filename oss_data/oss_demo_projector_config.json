@@ -48,6 +48,19 @@
                     96
                 ]
             }
+    },
+    {
+      "tensorName": "LFW Data Irene",
+      "tensorShape": [21, 96],
+      "tensorPath": "oss_data/lfw-96-tenorbytes-Irene.bytes",
+      "metadataPath": "oss_data/lfw-96-labels-Irene.tsv",
+      "sprite": {
+                "imagePath": "oss_data/lfw-96-sprites-Irene.png",
+                "singleImageDim": [
+                    96,
+                    96
+                ]
+            }
     }
   ],
   "modelCheckpointPath": "Demo datasets"
