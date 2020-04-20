@@ -35,6 +35,19 @@
       "tensorPath": "oss_data/bnmt_enjako_interlingua_10k_1024_tensors.bytes",
       "metadataPath": "oss_data/bnmt_enjako_interlingua_10k_1024_metadata.tsv",
       "bookmarksPath": "oss_data/bnmt_enjako_interlingua_10k_1024_bookmarks.txt"
+    },
+    {
+      "tensorName": "LFW Data",
+      "tensorShape": [5000, 96],
+      "tensorPath": "oss_data/lfw-tensor-small.bytes",
+      "metadataPath": "oss_data/lfw-labels-small.tsv",
+      "sprite": {
+                "imagePath": "oss_data/lfw-sprites-picture.png",
+                "singleImageDim": [
+                    96,
+                    96
+                ]
+            }
     }
   ],
   "modelCheckpointPath": "Demo datasets"
